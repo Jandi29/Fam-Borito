@@ -1,0 +1,84 @@
+body {
+  text-align: center;
+  width: 100%;
+
+}
+
+h1  {
+  font-family: 'Homemade Apple', cursive;
+  color: #1b6ca8;
+}
+.owner {
+  margin-top: -17px;
+  padding-left: 130px;
+  font-family: 'Homemade Apple', cursive;
+}
+
+.header-div {
+  padding-top: 150px;
+  height: 617px;
+  background-color: #f7f7ef;
+  ;
+}
+
+.logo {
+  padding-bottom: 50px;
+}
+
+.nav-item {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+h2 {
+  margin-top: 10px;
+}
+.about-div {
+  height: 617px;
+  margin: 50px auto 30px;
+}
+
+.about-us-img {
+    height: 400px;
+    margin: 30px auto 30px;
+}
+
+.about-space {
+padding-left: 420px;
+
+padding-right: 420px;
+}
+.menu-div {
+  height: 617px;
+  padding-top: 10px;
+  background-color: #ffcb74;
+}
+
+.image-size {
+  height: 250px;
+  width: 250px;
+  margin: 5px;
+}
+
+
+.hr-dotted {
+  height: 5px;
+  border-top: 5px dotted;
+  width: 5%;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.social-icon {
+  margin: 20px 10px;
+  color: #1b6ca8;
+}
+
+.container {
+  /* margin: 80px auto 80px; */
+}
+.contact-us-div {
+  height: 617px;
+  text-align: left;
+  margin: 40px auto  30px;
+}
